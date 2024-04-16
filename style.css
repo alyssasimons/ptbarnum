@@ -41,12 +41,19 @@ nav {
     border: 0px;
 }
 
+.btn-secondary {
+    background-color: #f7f7f7;
+    color: black;
+    border: 1px solid;
+}
+
 .thesis {
     background-color: #f7f7f7;
 }
 
 .thesis > div {
-    border: 5px groove gray;
+    border: 1px solid gray;
+    box-shadow: 1px 0px 30px 1px #888888;
 }
 
 .thesis-statement {
