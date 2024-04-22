@@ -79,3 +79,9 @@ nav {
 .linked-link {
     color: rgb(255, 134, 134);
 }
+
+.sticky-thesis {
+    border: 1px solid rgb(166, 166, 166);
+    box-shadow: 1px 0px 10px 1px #888888;
+
+}
